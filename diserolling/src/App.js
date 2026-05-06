@@ -4,6 +4,7 @@ import DiceRolling from './component/DiceRolling';
 import Reharts from './component/Reharts';
 import FahadWork from './component/FahadWork';
 import ZainWork from './component/ZainWork';
+import Wednesday from './component/Wednesday';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
      {/* <Reharts/> */}
      <FahadWork/>
      <ZainWork/>
+     <Wednesday/>
     </div>
   );
 }
