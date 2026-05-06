@@ -12,7 +12,7 @@ function App() {
      {/* <DiceRolling/> */}
      {/* <Reharts/> */}
      <FahadWork/>
-     <ZainWork/>
+     {/* <ZainWork/> */}
      <Wednesday/>
     </div>
   );
