@@ -11,7 +11,7 @@ function App() {
     <div className="App">
      {/* <DiceRolling/> */}
      {/* <Reharts/> */}
-     <FahadWork/>
+     {/* <FahadWork/> */}
      {/* <ZainWork/> */}
      <Wednesday/>
     </div>
